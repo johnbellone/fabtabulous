@@ -47,4 +47,3 @@ Fabtabs.prototype = {
 	}
 }
 
-Event.observe(window,'load',function(){ new Fabtabs('tabs'); },false);
